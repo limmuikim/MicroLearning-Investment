@@ -1,0 +1,6 @@
+{
+  "name": "InvestPulse Microlearning & Portfolio Simulator",
+  "description": "Daily 15-minute financial microlearning for investors, live sector tracking, portfolio analytics, and interactive paper trading with real-time feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
